@@ -1,0 +1,32 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Recommender System Large Artifacts & Data
+# ---------------------------------------------------
+# Ignore large artifacts by default, except the compact Weighted TF-IDF models (<50MB)
+artifacts/*
+!artifacts/weighted_tfidf_*
+gensim_data/
+
+# Old / Legacy files
+old/
+
+# Datasets (Optional to ignore if < 100MB, but recommended)
+# 25k IMDb movie Dataset.csv
+
+# Jupyter        checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/

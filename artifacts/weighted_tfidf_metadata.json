@@ -1,0 +1,19 @@
+{
+  "approach": "weighted_tfidf",
+  "rows": 24402,
+  "top_n": 10,
+  "field_weights": {
+    "movie title": 4.0,
+    "Director": 3.0,
+    "Generes": 2.0,
+    "Plot Kyeword": 2.5,
+    "Top 5 Casts": 1.5,
+    "Writer": 1.0,
+    "Overview": 0.5
+  },
+  "max_features": 50000,
+  "ngram_range": [
+    1,
+    2
+  ]
+}
