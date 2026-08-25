@@ -17,7 +17,7 @@ An industrial-grade, multi-model recommendation engine comparing 5 distinct lexi
 
 ## 📑 Table of Contents
 - [Executive Overview](#-executive-overview)
-- [Screenshots](#-screenshots)
+- [Interactive UI Demo & Screenshots](#-interactive-ui-demo--screenshots)
 - [Key Features](#-key-features)
 - [System Architecture](#-system-architecture)
 - [Recommender Algorithms & Mathematical Formulations](#-recommender-algorithms--mathematical-formulations)
@@ -32,13 +32,17 @@ An industrial-grade, multi-model recommendation engine comparing 5 distinct lexi
 
 ---
 
-## 📸 Screenshots
+## 📸 Interactive UI Demo & Screenshots
 
-![mobile (1)](https://github.com/honoreade/Movie-recommender-system/assets/75524511/9990386d-cd55-4126-bad6-ba5537b48cf3)
+<div align="center">
 
-![Screenshot 2023-05-11 191537](https://github.com/honoreade/Movie-recommender-system/assets/75524511/297abc86-7050-4e2f-9ea2-642c5af29611)
+### 🎥 Live Search & Recommendation Walkthrough
+![Movie Recommender Live Demo](assets/demo.gif)
 
-![mobile (4)](https://github.com/honoreade/Movie-recommender-system/assets/75524511/337d680d-7e54-419c-9e32-efbd10fb420b)
+### 🔍 Interactive Metadata & Overview Hover Popovers
+![Interactive Overview Hover Popover](assets/hover_card.png)
+
+</div>
 
 ---
 
